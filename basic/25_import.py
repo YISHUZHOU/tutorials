@@ -15,3 +15,5 @@ print(time())
 
 from time import *
 print(localtime())
+print(1) #todo:abc
+#随便加一行
